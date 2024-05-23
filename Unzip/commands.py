@@ -39,9 +39,7 @@ async def help_command(client, message):
     [
         [
             InlineKeyboardButton("🔰 ᴜᴘᴅᴀᴛᴇ 🔰", url="https://t.me/synaxnetwork"),
-        ],
-        [
-            InlineKeyboardButton("🔰 ʙᴏᴛ 🔰", url="https://t.me/synaxbots"),
+            InlineKeyboardButton("🔰 ʙᴏᴛs 🔰", url="https://t.me/synaxbots")
         ] 
    ]
   )
